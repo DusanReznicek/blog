@@ -1,2 +1,2 @@
-bundle update
-bundle exec jekyll build --future
+sudo bundle update
+sudo bundle exec jekyll build --future
